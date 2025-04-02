@@ -51,8 +51,7 @@ This assignment will help you practice:
 ### Part 1: About Mel 
 - My name is Mel. I'm an emergency medicine physician and health services researcher at UCSF. My research focuses on leveraging EHR-embedded tools to identify and address unmet social needs in the emergency department. 
 - I'm very interested in developing my skills in informatics and artificial intelligence. I'm hoping to get a basic understanding of the various tools that could be used to make sense out of vast amounts of EHR data, both structured and unstructured. 
-- One topic I'm interested in is how to use UCSF's secure servers and API to access and analyze EHR data in a HIPAA-compliant way. I'm still trying to wrap my head argit config --global user.name "Your Name"
-git config --global user.email "your.email@example.com"ound what an "API" means...
+- One topic I'm interested in is how to use UCSF's secure servers and API to access and analyze EHR data in a HIPAA-compliant way. I'm still trying to wrap my head around what an "API" means...
 - Bad Bunny's most recent album, _Debí Tirar Más Fotos_, is a materpiece--a true tribute to the richness of Puerto Rican music and history. It can be found [here](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb?si=QfGinVEzQFGXIgmJNxTxRg).
 
 ### Part 2: Complete the email_hasher.py Script
